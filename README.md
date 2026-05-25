@@ -40,3 +40,44 @@ npm install
 npm run build
 # Or watch for changes during development
 npm run watch
+
+🚀 Quick Start
+Open Sketch and select any document.
+Find the Sketch Agent panel in the right Inspector sidebar.
+Click ⚙️ Settings to configure your AI provider and API key.
+Start designing with words:
+Create: "Generate a profile card with avatar, name, and bio"
+Edit: Select a button, then type "Change color to blue and add a drop shadow"
+⚙️ Configuration
+表格
+Setting	Description
+Provider	OpenAI, Anthropic, DeepSeek, Zhipu
+API Key	Your personal key (encrypted local storage)
+Endpoint	Optional custom API endpoint
+Model	e.g., gpt-4o, claude-4-sonnet
+Preview Mode	Auto / Always Preview / Always Direct
+Context Rounds	Conversation history to retain (default: 10)
+🛠️ Tech Stack
+Frontend: HTML/CSS/JS inside Sketch's WKWebView
+Bridge: sketch-module-web-view for WebView ↔ Plugin communication
+API: Sketch JavaScript API + CocoaScript for native layer manipulation
+Build: skpm (Webpack-based toolchain)
+AI: Standard Chat Completions API with unified adapter layer
+📋 Supported Operations
+Generation
+Rectangles, Text, Image placeholders, Groups, Symbol instances
+Modification
+Colors (fill, border, text, gradients)
+Dimensions, Position, Spacing
+Typography (font, size, line-height, letter-spacing, alignment)
+Border radius, Shadows, Opacity
+Layer ordering
+🤝 Contributing
+See CONTRIBUTING.md.
+Fork the repository
+Create your feature branch (git checkout -b feature/amazing-feature)
+Commit your changes (git commit -m 'Add amazing feature')
+Push to the branch (git push origin feature/amazing-feature)
+Open a Pull Request
+📄 License
+Distributed under the MIT License. See LICENSE.
