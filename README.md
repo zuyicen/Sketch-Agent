@@ -5,6 +5,9 @@
 
 # Sketch Agent
 
+<img width="1920" height="1080" alt="Agentpic" src="https://github.com/user-attachments/assets/a514febe-66f3-47ca-b0a9-771cdc4adb93" />
+
+
 &gt; Your AI design partner inside Sketch. Turn words into interfaces.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
