@@ -15,6 +15,14 @@ Sketch Agent embeds a conversational AI panel directly into Sketch's Inspector s
 
 ---
 
+## 💡 Model Recommendations
+
+> **For daily element manipulation & editing**, we strongly recommend **DeepSeek-V4-Flash**. Pillz testing confirms it delivers an exceptional balance of cost-efficiency and performance for routine layer operations.
+>
+> **For generating polished, complete UI pages**, **Kimi-K2.6** is highly recommended. It demonstrates outstanding aesthetic judgment and produces visually refined full-page designs.
+
+---
+
 ## ✨ Features
 
 - **🎨 Generate UI from Text** — Describe any interface (e.g., *"a login page with email, password, and social login buttons"*) and watch AI build the layer structure on your artboard.
