@@ -14,7 +14,7 @@
 [![Sketch Version](https://img.shields.io/badge/Sketch-100+-orange.svg)](https://www.sketch.com)
 [![macOS](https://img.shields.io/badge/macOS-13%2B-black.svg)](https://www.apple.com/macos)
 
-Sketch Agent embeds a conversational AI panel directly into Sketch's Inspector sidebar, enabling you to **generate complete UI layouts** from text descriptions or **modify selected layers** through simple chat commands—without ever leaving your canvas.
+sketch AI plug-in Sketch Agent embeds a conversational AI panel directly into Sketch's Inspector sidebar, enabling you to **generate complete UI layouts** from text descriptions or **modify selected layers** through simple chat commands—without ever leaving your canvas.
 
 ---
 
